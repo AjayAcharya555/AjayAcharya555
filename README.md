@@ -44,7 +44,7 @@
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
 <img align="left" alt="tensorflow" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 
-<img align="left" alt="amplify" width="30px" style="padding-right:10px;" src="https://whatthelogo.com/storage/logos/adobe-xd-270211.png" /></p>
+<img align="left" alt="amplify" width="30px" style="padding-right:10px;" src="https://whatthelogo.com/storage/logos/adobe-xd-270211.png" />
 
 <br />
 <p>
