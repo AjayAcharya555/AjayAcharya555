@@ -32,7 +32,6 @@
 <img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="googlecloud" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
 <img align="left" alt="figma" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-
 <img align="left" alt="amazonaws" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />
@@ -41,7 +40,6 @@
 <img align="left" alt="mangodb" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="opencv" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /><br><br>
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
 <img align="left" alt="tensorflow" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="amplify" width="30px" style="padding-right:10px;" src="https://docs.amplify.aws/assets/logo-dark.svg" />
