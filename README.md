@@ -39,7 +39,7 @@
 <p><img align="left" alt="Gradle" width="30px" style="padding-left:10px;" src="https://static-00.iconduck.com/assets.00/gradle-plain-icon-512x415-su5dg0ev.png" />
 <img align="left" alt="adobeillustrator" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
 <img align="left" alt="mangodb" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="opencv" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /><br><br>
+<img align="left" alt="opencv" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
