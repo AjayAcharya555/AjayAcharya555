@@ -3,6 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayacharya555&label=Profile%20views&color=0e75b6&style=flat" alt="ajayacharya555" /> </p>
 
+- 🔭 I’m currently working on **Mechine learning Android App**
+
+- 🌱 I’m currently learning **Android Framework**
+
+- 👯 I’m looking to collaborate on **Android Jetpack Compose projects**
+
+- 🤝 I’m looking for help with **for my Android Projects**
+
+- 👨‍💻 All of my projects are available at [soon i will update.......](soon i will update.......)
+
 - 💬 Ask me about **Android, Jetpack, MVVM, etc**
 
 - 📫 How to reach me **ajayacharya1611@gmail.com**<br>
