@@ -36,15 +36,14 @@
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/gradle-plain-icon-512x415-su5dg0ev.png" />
-<img align="left" alt="adobeillustrator" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
+
 <img align="left" alt="mangodb" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="opencv" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /><br><br>
 <img align="left" alt="mysql" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="pandas" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
 <img align="left" alt="tensorflow" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-<img align="left" alt="amplify" width="30px" style="padding-right:10px;" src="https://docs.amplify.aws/assets/logo-dark.svg" />
+
 <img align="left" alt="amplify" width="30px" style="padding-right:10px;" src="https://whatthelogo.com/storage/logos/adobe-xd-270211.png" />
-<img align="left" alt="amplify" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png?20200616073617" />
 
 
 <br />
