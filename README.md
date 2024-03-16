@@ -25,8 +25,8 @@
 <img align="left" alt="jetpack"  width="30px" style="padding-right:10px;" src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="json" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=48&id=E6LuCTDk8X6X&format=png" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://media.licdn.com/dms/image/D4D12AQEAO8b3YbB2bw/article-cover_image-shrink_600_2000/0/1670420866062?e=2147483647&v=beta&t=zubK5_6jSz9gB4nwsCU6O9Kg9oQSY-1ImCsCLMhMyU8" />
 <img align="left" alt="postman" width="30px" style="padding-right:10px,padding-top:10px;" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 <img align="left" alt="sqlite" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />
 <img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
@@ -53,6 +53,7 @@
 <p>
   <hr>
 </p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajayacharya555&theme=codeSTACKr&show_icons=true&locale=en&layout=compact" alt="ajayacharya555" /></p>
